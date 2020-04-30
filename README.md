@@ -5,7 +5,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Content
 
-- [BASB articles](#websites)
-- [Online Courses](#online-courses)
-- [Books](#books)
+- [Articles](#articles)
+- [Videos](#videos)
 - [Tools and Apps](#tools-and-apps)
+
+## Articles
+
+- [Building a Second Brain: Overview](https://praxis.fortelabs.co/basboverview/)
+- [How to take smart notes: 10 principles](https://fortelabs.co/blog/how-to-take-smart-notes/)
+- [Progressive Summarization: Part 1](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes)
+- [Progressive Summarization: Part 2](https://fortelabs.co/blog/progressive-summarization-ii-examples-and-metaphors)
+- [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
+- [One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email](https://fortelabs.co/blog/one-touch-to-inbox-zero)
+
+## Videos
+
+- [How to Use and Master Your Second Brain in 2019, by Tiago Forte at ProdCon](https://fortelabs.co/blog/how-to-use-and-master-your-second-brain-in-2019-by-tiago-forte-at-prodcon/)
+- [How to Build a Second Brain, with Tiago Forte](https://fortelabs.co/blog/how-to-build-a-second-brain/)
+- [Building a Second Brain at Knowledge Conf 2019 (Russian)](https://fortelabs.co/blog/building-a-second-brain-at-knowledge-conf-2019/)
