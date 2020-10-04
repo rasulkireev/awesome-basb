@@ -7,7 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Articles](#articles)
 - [Videos](#videos)
-- [Course)(#courses)
+- [Course](#courses)
 - [Tools and Apps](#tools-and-apps)
 
 ## Articles
