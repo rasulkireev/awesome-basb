@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Articles](#articles)
 - [Videos](#videos)
+- [Course)(#courses)
 - [Tools and Apps](#tools-and-apps)
 
 ## Articles
@@ -17,6 +18,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Progressive Summarization: Part 2](https://fortelabs.co/blog/progressive-summarization-ii-examples-and-metaphors)
 - [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
 - [One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email](https://fortelabs.co/blog/one-touch-to-inbox-zero)
+
+## Courses
+
+- [Effortless Output in Roam](https://www.effortlessoutput.com/)
+- [Building a Second Brain](https://www.buildingasecondbrain.com/)
+
 
 ## Videos
 
