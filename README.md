@@ -31,7 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How to Build a Second Brain, with Tiago Forte](https://fortelabs.co/blog/how-to-build-a-second-brain/)
 - [Building a Second Brain at Knowledge Conf 2019 (Russian)](https://fortelabs.co/blog/building-a-second-brain-at-knowledge-conf-2019/)
 
-## Tools
+## Tools and Apps
 - [Obsidian](https://obsidian.md)
 - [RoamResearch](https://roamresearch.com)
 - [Joplin](https://joplinapp.org)
