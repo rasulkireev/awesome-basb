@@ -5,10 +5,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Content
 
-- [Articles](#articles)
-- [Videos](#videos)
-- [Course](#courses)
-- [Tools and Apps](#tools-and-apps)
+- [Awesome (BASB) Building a Second Brain ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-basb-building-a-second-brain-)
+  - [Table of Content](#table-of-content)
+  - [Articles](#articles)
+  - [Courses](#courses)
+  - [Videos](#videos)
+  - [Tools and Apps](#tools-and-apps)
 
 ## Articles
 
@@ -27,11 +29,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Videos
 
+### English
 - [How to Use and Master Your Second Brain in 2019, by Tiago Forte at ProdCon](https://fortelabs.co/blog/how-to-use-and-master-your-second-brain-in-2019-by-tiago-forte-at-prodcon/)
 - [How to Build a Second Brain, with Tiago Forte](https://fortelabs.co/blog/how-to-build-a-second-brain/)
+
+### Russian
 - [Building a Second Brain at Knowledge Conf 2019 (Russian)](https://fortelabs.co/blog/building-a-second-brain-at-knowledge-conf-2019/)
 
 ## Tools and Apps
+
+### Free
 - [Obsidian](https://obsidian.md)
-- [RoamResearch](https://roamresearch.com)
 - [Joplin](https://joplinapp.org)
+
+### Paid
+- [RoamResearch](https://roamresearch.com)
