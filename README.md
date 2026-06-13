@@ -6,8 +6,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
   - [Articles](#articles)
+  - [Books](#books)
   - [Courses](#courses)
   - [Videos](#videos)
+  - [Templates and Examples](#templates-and-examples)
   - [Tools and Apps](#tools-and-apps)
 
 ## Articles
@@ -16,8 +18,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How to take smart notes: 10 principles](https://fortelabs.co/blog/how-to-take-smart-notes/)
 - [Progressive Summarization: Part 1](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes)
 - [Progressive Summarization: Part 2](https://fortelabs.co/blog/progressive-summarization-ii-examples-and-metaphors)
+- [Progressive Summarization: Part 3](https://fortelabs.co/blog/progressive-summarization-iii-guidelines-and-principles/)
 - [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
 - [One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email](https://fortelabs.co/blog/one-touch-to-inbox-zero)
+
+## Books
+
+- [Building a Second Brain (Book)](https://www.buildingasecondbrain.com/book)
+- [The PARA Method](https://www.buildingasecondbrain.com/para)
 
 ## Courses
 
@@ -33,6 +41,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Russian
 - [Building a Second Brain at Knowledge Conf 2019](https://fortelabs.co/blog/building-a-second-brain-at-knowledge-conf-2019/)
+
+## Templates and Examples
+
+- [PARA Examples](https://www.buildingasecondbrain.com/para/examples)
+- [The Official Second Brain Note Template](https://fortelabs.com/blog/the-official-second-brain-note-template/)
+- [The Official Second Brain Notion Template](https://www.buildingasecondbrain.com/notion-template)
+- [PARA Method Template for Notion](https://thomasjfrank.com/templates/para-method-template-for-notion/)
+- [Template for using Obsidian for P.A.R.A.](https://github.com/byarbrough/obsidian-para)
 
 ## Tools and Apps
 
