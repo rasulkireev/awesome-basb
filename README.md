@@ -55,6 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Free
 - [Obsidian](https://obsidian.md)
 - [Joplin](https://joplinapp.org)
+- [Screenpipe](https://screenpi.pe)
 
 ### Paid
 - [RoamResearch](https://roamresearch.com)
