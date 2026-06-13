@@ -16,12 +16,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Articles
 
 - [Building a Second Brain: The Definitive Introductory Guide](https://fortelabs.com/blog/basboverview/)
-- [How to take smart notes: 10 principles](https://fortelabs.co/blog/how-to-take-smart-notes/)
-- [Progressive Summarization: Part 1](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes)
-- [Progressive Summarization: Part 2](https://fortelabs.co/blog/progressive-summarization-ii-examples-and-metaphors)
-- [Progressive Summarization: Part 3](https://fortelabs.co/blog/progressive-summarization-iii-guidelines-and-principles/)
-- [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
-- [One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email](https://fortelabs.co/blog/one-touch-to-inbox-zero)
+- [How to take smart notes: 10 principles](https://fortelabs.com/blog/how-to-take-smart-notes/)
+- [Progressive Summarization: Part 1](https://fortelabs.com/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes)
+- [Progressive Summarization: Part 2](https://fortelabs.com/blog/progressive-summarization-ii-examples-and-metaphors)
+- [Progressive Summarization: Part 3](https://fortelabs.com/blog/progressive-summarization-iii-guidelines-and-principles/)
+- [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.com/blog/para/)
+- [One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email](https://fortelabs.com/blog/one-touch-to-inbox-zero)
 - [The 4 Levels of Personal Knowledge Management](https://fortelabs.com/blog/the-4-levels-of-personal-knowledge-management/)
 - [The 9 Biggest Myths and Misconceptions about Building a Second Brain](https://fortelabs.com/blog/9-biggest-myths-and-misconceptions-about-basb/)
 - [Introducing The AI Second Brain](https://fortelabs.com/blog/introducing-the-ai-second-brain/)
@@ -47,12 +47,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### English
 - [Building a Second Brain: Start Here](https://www.youtube.com/playlist?list=PLVNXAaej57W7xr4274U_DLMzaTAQsHluT)
-- [How to Use and Master Your Second Brain in 2019, by Tiago Forte at ProdCon](https://fortelabs.co/blog/how-to-use-and-master-your-second-brain-in-2019-by-tiago-forte-at-prodcon/)
-- [How to Build a Second Brain, with Tiago Forte](https://fortelabs.co/blog/how-to-build-a-second-brain/)
+- [How to Use and Master Your Second Brain in 2019, by Tiago Forte at ProdCon](https://fortelabs.com/blog/how-to-use-and-master-your-second-brain-in-2019-by-tiago-forte-at-prodcon/)
+- [How to Build a Second Brain, with Tiago Forte](https://fortelabs.com/blog/how-to-build-a-second-brain/)
 - [How to Progressively Summarize a Digital Note](https://www.youtube.com/watch?v=fWFKoVbSwGo)
 
 ### Russian
-- [Building a Second Brain at Knowledge Conf 2019](https://fortelabs.co/blog/building-a-second-brain-at-knowledge-conf-2019/)
+- [Building a Second Brain at Knowledge Conf 2019](https://fortelabs.com/blog/building-a-second-brain-at-knowledge-conf-2019/)
 
 ## Templates and Examples
 
