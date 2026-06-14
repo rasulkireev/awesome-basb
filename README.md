@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Second Brain Case Study: Teaching Progressive Summarization in an Undergraduate Classroom](https://fortelabs.com/blog/second-brain-case-study-teaching-progressive-summarization-in-an-undergraduate-classroom-ii/)
 - [When You Should Switch Your Second Brain App (And When You Shouldn't)](https://fortelabs.com/blog/when-you-should-switch-your-second-brain-app-and-when-you-shouldnt/)
 - [Peeking Into People's Second Brains: 6 Videos to Inspire Your Second Brain Setup](https://fortelabs.com/blog/peeking-into-peoples-second-brains-6-videos-to-inspire-your-second-brain-setup/)
+- [Test-Driving a New Generation of Second Brain Apps: Obsidian, Tana, and Mem](https://fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/)
 
 ## Books
 
@@ -41,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Building a Second Brain Resource Guide](https://www.buildingasecondbrain.com/resources)
 - [Building a Second Brain Podcast](https://www.buildingasecondbrain.com/podcast)
+- [Second Brain Membership](https://www.buildingasecondbrain.com/membership)
 - [Tiago Forte YouTube Channel](https://www.youtube.com/@TiagoForte)
 
 ## Courses
@@ -57,6 +59,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How to Use and Master Your Second Brain in 2019, by Tiago Forte at ProdCon](https://fortelabs.com/blog/how-to-use-and-master-your-second-brain-in-2019-by-tiago-forte-at-prodcon/)
 - [How to Build a Second Brain, with Tiago Forte](https://fortelabs.com/blog/how-to-build-a-second-brain/)
 - [How to Progressively Summarize a Digital Note](https://www.youtube.com/watch?v=fWFKoVbSwGo)
+- [Stop Highlighting Blindly: The Progressive Summarization Secret](https://www.youtube.com/watch?v=73s6Dgg3NZ0)
+- [Tiago Forte | Building a Second Brain | Talks at Google](https://www.youtube.com/watch?v=Y86GOtc1KNo)
 
 ### Russian
 - [Building a Second Brain at Knowledge Conf 2019](https://fortelabs.com/blog/building-a-second-brain-at-knowledge-conf-2019/)
@@ -64,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Guides
 
 - [PARA Method in Workflowy](https://workflowy.com/help/para-method/)
+- [How to Build a Second Brain in Notion](https://fortelabs.com/blog/how-to-build-a-second-brain-in-notion/)
 - [How to Build a Second Brain With Evernote](https://evernote.com/learn/how-to-build-a-second-brain)
 
 ## Templates and Examples

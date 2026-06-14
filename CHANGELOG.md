@@ -2,6 +2,7 @@
 
 ## 2026-06-14
 
+- Added official Second Brain membership/community, app-selection guidance, Notion implementation, Progressive Summarization, and Talks at Google resources.
 - Added official Forte Labs case studies and app-switching guidance for progressive summarization and Second Brain maintenance.
 - Added Tiago Forte's YouTube channel, PARA video playlist, and Forte Labs video setup roundup.
 - Added practical Workflowy and Evernote implementation guides for PARA and Second Brain workflows.
