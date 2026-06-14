@@ -29,7 +29,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
 - [My custom second brain setup, part 2: How it works](https://luhr.co/blog/2023/04/21/my-custom-second-brain-setup-part-2-how-it-works/)
 - [How to Build a Second Brain in Obsidian: Complete Setup Guide + Free Templates](https://mattgiaro.com/second-brain-obsidian/)
-- [Public Second Brain with Quartz](https://www.ssp.sh/brain/public-second-brain-with-quartz/)
 - [My workflow for my public second brain](https://www.pelayoarbues.com/notes/My-workflow-for-my-public-second-brain)
 - [Second Brain Case Study: Progressive Summarization in the Intelligence Community](https://fortelabs.com/blog/second-brain-case-study-progressive-summarization-in-the-intelligence-community/)
 - [Second Brain Case Study: Teaching Progressive Summarization in an Undergraduate Classroom](https://fortelabs.com/blog/second-brain-case-study-teaching-progressive-summarization-in-an-undergraduate-classroom-ii/)
@@ -75,6 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How to Build a Second Brain in Notion](https://fortelabs.com/blog/how-to-build-a-second-brain-in-notion/)
 - [How to Build a Second Brain With Evernote](https://evernote.com/learn/how-to-build-a-second-brain)
 - [Use this Notion second brain template to get organized](https://zapier.com/blog/second-brain-notion-template/)
+- [Public Second Brain with Quartz](https://www.ssp.sh/brain/public-second-brain-with-quartz/)
 
 ## Templates and Examples
 
@@ -87,13 +87,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Obsidian AI Second Brain](https://github.com/jamesmcroft/obsidian-ai-second-brain)
 - [PARA Starter Kit](https://forum.obsidian.md/t/para-starter-kit/223)
 - [Second Brain: Crafted, Curated, Connected, Compounded](https://brain.sspaeti.com/)
+- [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
 
 ## Tools and Apps
 
 ### Free
 - [Obsidian](https://obsidian.md)
 - [Joplin](https://joplinapp.org)
-- [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
 
 ### Paid
 - [RoamResearch](https://roamresearch.com)
