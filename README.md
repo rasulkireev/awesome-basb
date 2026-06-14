@@ -27,6 +27,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The 9 Biggest Myths and Misconceptions about Building a Second Brain](https://fortelabs.com/blog/9-biggest-myths-and-misconceptions-about-basb/)
 - [Introducing The AI Second Brain](https://fortelabs.com/blog/introducing-the-ai-second-brain/)
 - [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
+- [My custom second brain setup, part 1: Why go custom?](https://luhr.co/blog/2023/04/19/my-custom-second-brain-setup-part-1-why-go-custom/)
+- [My custom second brain setup, part 2: How it works](https://luhr.co/blog/2023/04/21/my-custom-second-brain-setup-part-2-how-it-works/)
+- [How to Build a Second Brain in Obsidian: Complete Setup Guide + Free Templates](https://mattgiaro.com/second-brain-obsidian/)
+- [My workflow for my public second brain](https://www.pelayoarbues.com/notes/My-workflow-for-my-public-second-brain)
 - [Second Brain Case Study: Progressive Summarization in the Intelligence Community](https://fortelabs.com/blog/second-brain-case-study-progressive-summarization-in-the-intelligence-community/)
 - [Second Brain Case Study: Teaching Progressive Summarization in an Undergraduate Classroom](https://fortelabs.com/blog/second-brain-case-study-teaching-progressive-summarization-in-an-undergraduate-classroom-ii/)
 - [When You Should Switch Your Second Brain App (And When You Shouldn't)](https://fortelabs.com/blog/when-you-should-switch-your-second-brain-app-and-when-you-shouldnt/)
@@ -70,6 +74,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PARA Method in Workflowy](https://workflowy.com/help/para-method/)
 - [How to Build a Second Brain in Notion](https://fortelabs.com/blog/how-to-build-a-second-brain-in-notion/)
 - [How to Build a Second Brain With Evernote](https://evernote.com/learn/how-to-build-a-second-brain)
+- [Use this Notion second brain template to get organized](https://zapier.com/blog/second-brain-notion-template/)
+- [Public Second Brain with Quartz](https://www.ssp.sh/brain/public-second-brain-with-quartz/)
 
 ## Templates and Examples
 
@@ -80,6 +86,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Template for using Obsidian for P.A.R.A.](https://github.com/byarbrough/obsidian-para)
 - [Building a second brain - Workflowy template](https://workflowy.com/template/building-a-second-brain/)
 - [Obsidian AI Second Brain](https://github.com/jamesmcroft/obsidian-ai-second-brain)
+- [PARA Starter Kit](https://forum.obsidian.md/t/para-starter-kit/223)
+- [Second Brain: Crafted, Curated, Connected, Compounded](https://brain.sspaeti.com/)
+- [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
 
 ## Tools and Apps
 
