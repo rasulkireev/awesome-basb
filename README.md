@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Official Hubs](#official-hubs)
   - [Courses](#courses)
   - [Videos](#videos)
+  - [Guides](#guides)
   - [Templates and Examples](#templates-and-examples)
   - [Tools and Apps](#tools-and-apps)
 
@@ -26,6 +27,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The 9 Biggest Myths and Misconceptions about Building a Second Brain](https://fortelabs.com/blog/9-biggest-myths-and-misconceptions-about-basb/)
 - [Introducing The AI Second Brain](https://fortelabs.com/blog/introducing-the-ai-second-brain/)
 - [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
+- [Second Brain Case Study: Progressive Summarization in the Intelligence Community](https://fortelabs.com/blog/second-brain-case-study-progressive-summarization-in-the-intelligence-community/)
+- [Second Brain Case Study: Teaching Progressive Summarization in an Undergraduate Classroom](https://fortelabs.com/blog/second-brain-case-study-teaching-progressive-summarization-in-an-undergraduate-classroom-ii/)
+- [When You Should Switch Your Second Brain App (And When You Shouldn't)](https://fortelabs.com/blog/when-you-should-switch-your-second-brain-app-and-when-you-shouldnt/)
+- [Peeking Into People's Second Brains: 6 Videos to Inspire Your Second Brain Setup](https://fortelabs.com/blog/peeking-into-peoples-second-brains-6-videos-to-inspire-your-second-brain-setup/)
 
 ## Books
 
@@ -36,6 +41,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Building a Second Brain Resource Guide](https://www.buildingasecondbrain.com/resources)
 - [Building a Second Brain Podcast](https://www.buildingasecondbrain.com/podcast)
+- [Tiago Forte YouTube Channel](https://www.youtube.com/@TiagoForte)
 
 ## Courses
 
@@ -47,12 +53,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### English
 - [Building a Second Brain: Start Here](https://www.youtube.com/playlist?list=PLVNXAaej57W7xr4274U_DLMzaTAQsHluT)
+- [Organize Your Digital Life With The PARA Method](https://www.youtube.com/playlist?list=PLVNXAaej57W6qCYoMb_hbzDhX9et_GVlj)
 - [How to Use and Master Your Second Brain in 2019, by Tiago Forte at ProdCon](https://fortelabs.com/blog/how-to-use-and-master-your-second-brain-in-2019-by-tiago-forte-at-prodcon/)
 - [How to Build a Second Brain, with Tiago Forte](https://fortelabs.com/blog/how-to-build-a-second-brain/)
 - [How to Progressively Summarize a Digital Note](https://www.youtube.com/watch?v=fWFKoVbSwGo)
 
 ### Russian
 - [Building a Second Brain at Knowledge Conf 2019](https://fortelabs.com/blog/building-a-second-brain-at-knowledge-conf-2019/)
+
+## Guides
+
+- [PARA Method in Workflowy](https://workflowy.com/help/para-method/)
+- [How to Build a Second Brain With Evernote](https://evernote.com/learn/how-to-build-a-second-brain)
 
 ## Templates and Examples
 
