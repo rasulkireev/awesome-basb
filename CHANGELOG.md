@@ -2,6 +2,7 @@
 
 ## 2026-06-14
 
+- Added practical independent guides and templates for Logseq, Obsidian, Tana, and beginner BASB/PKM setup.
 - Added diverse independent BASB/PARA implementation resources for Markdown/Git, Obsidian, Notion, public second brains, and AI-assisted Obsidian workflows.
 - Added official Second Brain membership/community, app-selection guidance, Notion implementation, Progressive Summarization, and Talks at Google resources.
 - Added official Forte Labs case studies and app-switching guidance for progressive summarization and Second Brain maintenance.

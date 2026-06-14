@@ -82,6 +82,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [How to Build a Second Brain With Evernote](https://evernote.com/learn/how-to-build-a-second-brain)
 - [Use this Notion second brain template to get organized](https://zapier.com/blog/second-brain-notion-template/)
 - [Public Second Brain with Quartz](https://www.ssp.sh/brain/public-second-brain-with-quartz/)
+- [The Beginners Guide to Building a Second Brain](https://www.aidanhelfant.com/the-ultimate-guide-to-starting-your-very-own-second-brain/)
+- [How to build your Second Brain using LogSeq](https://devlizioso.substack.com/p/how-to-build-your-second-brain-using)
+- [LifeOS - Building my second brain with Obsidian](https://forum.obsidian.md/t/lifeos-building-my-second-brain-with-obsidian-para-method-periodic-notes-fullcalendar/62934)
+- [My Complete Obsidian Workflow to Manage My Life](https://mathisgauthey.github.io/my-complete-obsidian-workflow-to-manage-my-life/)
 
 ## Templates and Examples
 
@@ -95,6 +99,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [PARA Starter Kit](https://forum.obsidian.md/t/para-starter-kit/223)
 - [Second Brain: Crafted, Curated, Connected, Compounded](https://brain.sspaeti.com/)
 - [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
+- [PARA Template for your Second Brain in Tana](https://www.cortexfutura.com/templates/para/)
 
 ## Tools and Apps
 
