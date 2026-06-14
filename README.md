@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The 9 Biggest Myths and Misconceptions about Building a Second Brain](https://fortelabs.com/blog/9-biggest-myths-and-misconceptions-about-basb/)
 - [Introducing The AI Second Brain](https://fortelabs.com/blog/introducing-the-ai-second-brain/)
 - [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
+- [My custom second brain setup, part 1: Why go custom?](https://luhr.co/blog/2023/04/19/my-custom-second-brain-setup-part-1-why-go-custom/)
 - [My custom second brain setup, part 2: How it works](https://luhr.co/blog/2023/04/21/my-custom-second-brain-setup-part-2-how-it-works/)
 - [How to Build a Second Brain in Obsidian: Complete Setup Guide + Free Templates](https://mattgiaro.com/second-brain-obsidian/)
 - [My workflow for my public second brain](https://www.pelayoarbues.com/notes/My-workflow-for-my-public-second-brain)
