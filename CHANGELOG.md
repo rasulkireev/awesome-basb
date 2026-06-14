@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-06-14
+
+- Added official Forte Labs case studies and app-switching guidance for progressive summarization and Second Brain maintenance.
+- Added Tiago Forte's YouTube channel, PARA video playlist, and Forte Labs video setup roundup.
+- Added practical Workflowy and Evernote guides for implementing PARA and Second Brain workflows.
+
 ## 2026-06-13
 
 - Added official Building a Second Brain hubs, including the resource guide and podcast.
