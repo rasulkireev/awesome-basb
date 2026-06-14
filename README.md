@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Official Hubs](#official-hubs)
   - [Courses](#courses)
   - [Videos](#videos)
+  - [Guides](#guides)
   - [Templates and Examples](#templates-and-examples)
   - [Tools and Apps](#tools-and-apps)
 
@@ -30,7 +31,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Second Brain Case Study: Teaching Progressive Summarization in an Undergraduate Classroom](https://fortelabs.com/blog/second-brain-case-study-teaching-progressive-summarization-in-an-undergraduate-classroom-ii/)
 - [When You Should Switch Your Second Brain App (And When You Shouldn't)](https://fortelabs.com/blog/when-you-should-switch-your-second-brain-app-and-when-you-shouldnt/)
 - [Peeking Into People's Second Brains: 6 Videos to Inspire Your Second Brain Setup](https://fortelabs.com/blog/peeking-into-peoples-second-brains-6-videos-to-inspire-your-second-brain-setup/)
-- [How to Build a Second Brain With Evernote](https://evernote.com/learn/how-to-build-a-second-brain)
 
 ## Books
 
@@ -61,6 +61,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Russian
 - [Building a Second Brain at Knowledge Conf 2019](https://fortelabs.com/blog/building-a-second-brain-at-knowledge-conf-2019/)
 
+## Guides
+
+- [PARA Method in Workflowy](https://workflowy.com/help/para-method/)
+- [How to Build a Second Brain With Evernote](https://evernote.com/learn/how-to-build-a-second-brain)
+
 ## Templates and Examples
 
 - [PARA Examples](https://www.buildingasecondbrain.com/para/examples)
@@ -69,7 +74,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PARA Method Template for Notion](https://thomasjfrank.com/templates/para-method-template-for-notion/)
 - [Template for using Obsidian for P.A.R.A.](https://github.com/byarbrough/obsidian-para)
 - [Building a second brain - Workflowy template](https://workflowy.com/template/building-a-second-brain/)
-- [PARA Method in Workflowy](https://workflowy.com/help/para-method/)
 - [Obsidian AI Second Brain](https://github.com/jamesmcroft/obsidian-ai-second-brain)
 
 ## Tools and Apps
