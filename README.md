@@ -1,18 +1,23 @@
-# Awesome (BASB) Building a Second Brain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of resource for Building a Second Brain.
+# Awesome (BASB) Building a Second Brain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of resources for Building a Second Brain.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Table of Contents
+Browse the rendered list at [awesome.lvtd.dev](https://awesome.lvtd.dev/lists/awesome-basb/).
 
-  - [Articles](#articles)
-  - [Books](#books)
-  - [Official Hubs](#official-hubs)
-  - [Courses](#courses)
-  - [Videos](#videos)
-  - [Guides](#guides)
-  - [Templates and Examples](#templates-and-examples)
-  - [Tools and Apps](#tools-and-apps)
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## Contents
+
+- [Articles](#articles)
+- [Books](#books)
+- [Official Hubs](#official-hubs)
+- [Courses](#courses)
+- [Videos](#videos)
+- [Guides](#guides)
+- [Templates and Examples](#templates-and-examples)
+- [Tools and Apps](#tools-and-apps)
 
 ## Articles
 
@@ -54,10 +59,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Effortless Output in Roam](https://www.effortlessoutput.com/)
 - [Building a Second Brain](https://www.buildingasecondbrain.com/)
 
-
 ## Videos
 
 ### English
+
 - [Building a Second Brain: Start Here](https://www.youtube.com/playlist?list=PLVNXAaej57W7xr4274U_DLMzaTAQsHluT)
 - [Organize Your Digital Life With The PARA Method](https://www.youtube.com/playlist?list=PLVNXAaej57W6qCYoMb_hbzDhX9et_GVlj)
 - [How to Use and Master Your Second Brain in 2019, by Tiago Forte at ProdCon](https://fortelabs.com/blog/how-to-use-and-master-your-second-brain-in-2019-by-tiago-forte-at-prodcon/)
@@ -67,6 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Tiago Forte | Building a Second Brain | Talks at Google](https://www.youtube.com/watch?v=Y86GOtc1KNo)
 
 ### Russian
+
 - [Building a Second Brain at Knowledge Conf 2019](https://fortelabs.com/blog/building-a-second-brain-at-knowledge-conf-2019/)
 
 ## Guides
@@ -93,8 +99,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Tools and Apps
 
 ### Free
+
 - [Obsidian](https://obsidian.md)
 - [Joplin](https://joplinapp.org)
 
 ### Paid
+
 - [RoamResearch](https://roamresearch.com)

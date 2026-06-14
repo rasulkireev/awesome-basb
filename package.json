@@ -1,0 +1,13 @@
+{
+  "name": "awesome-basb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Curated resources for Building a Second Brain.",
+  "scripts": {
+    "lint:markdown": "markdownlint --ignore node_modules \"**/*.md\"",
+    "test": "npm run lint:markdown"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "0.48.0"
+  }
+}
