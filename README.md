@@ -92,8 +92,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Curated Lists
 
-- [Awesome PARA Method](https://github.com/georgeguimaraes/awesome-PARA-method) - Curated resources and tools for implementing PARA workflows.
-- [Second-Brain](https://github.com/KasperZutterman/Second-Brain) - Public Zettelkasten, second-brain, and digital-garden examples to study.
+- [Awesome PARA Method](https://github.com/georgeguimaraes/awesome-PARA-method)
 
 ## Templates and Examples
 

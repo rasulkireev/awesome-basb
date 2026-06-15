@@ -2,7 +2,7 @@
 
 ## 2026-06-15
 
-- Added independent BASB/PARA resources across Zettelkasten comparison, Notion workspace setup, curated public second-brain lists, Obsidian templates, and Logseq/Obsidian PARA helpers.
+- Added independent BASB/PARA resources across Zettelkasten comparison, Notion workspace setup, a curated PARA list, Obsidian templates, and Logseq/Obsidian PARA helpers.
 
 ## 2026-06-14
 
