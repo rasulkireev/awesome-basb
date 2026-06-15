@@ -88,12 +88,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [A Guide to Building a Second Brain in Mem](https://newsletter.mem.ai/p/a-guide-to-building-a-second-brain)
 - [PARA Method in Anytype](https://doc.anytype.io/anytype-docs/use-cases/para-method-for-note-taking)
 - [Use this Notion second brain template to get organized](https://zapier.com/blog/second-brain-notion-template/)
+- [How to Build a Second Brain in Notion - The Eudaimon](https://theeudaimon.com/how-to-build-a-second-brain-in-notion/)
 - [Public Second Brain with Quartz](https://www.ssp.sh/brain/public-second-brain-with-quartz/)
 - [The Beginners Guide to Building a Second Brain](https://www.aidanhelfant.com/the-ultimate-guide-to-starting-your-very-own-second-brain/)
 - [How to build your Second Brain using LogSeq](https://devlizioso.substack.com/p/how-to-build-your-second-brain-using)
 - [LifeOS - Building my second brain with Obsidian](https://forum.obsidian.md/t/lifeos-building-my-second-brain-with-obsidian-para-method-periodic-notes-fullcalendar/62934)
 - [My Complete Obsidian Workflow to Manage My Life](https://mathisgauthey.github.io/my-complete-obsidian-workflow-to-manage-my-life/)
 - [Using PARA to Organize Your Notion Workspace](https://mariepoulin.com/blog/using-para-to-organize-your-notion-workspace/)
+- [Turn Tana Into the Best Bookmark Manager for Your Second Brain](https://www.evchapman.com/blog/turn-tana-into-the-best-bookmark-manager-for-your-second-brain)
 - [Backing up Your Obsidian Vault on Github (for free!)](https://obsidian.rocks/backing-up-your-obsidian-vault-on-github-for-free/)
 - [Building a second brain for writing - with Obsidian](https://thesiswhisperer.com/2023/02/01/building-a-second-brain-for-writing-with-obsidian/)
 - [How I use the Logseq Readwise plugin in my Zettelkasten](https://wilde-at-heart.garden/pages/how-i-use-the-logseq-readwise-plugin-in-my-zettelkasten/)
@@ -127,6 +129,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 - [Obsidian](https://obsidian.md)
 - [Joplin](https://joplinapp.org)
+- [Foam](https://github.com/foambubble/foam)
+- [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
 - [Logseq Plugin: Quickly PARA Method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
 - [para-shortcuts](https://github.com/gOATiful/para-shortcuts)
 
