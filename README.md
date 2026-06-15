@@ -96,7 +96,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Using PARA to Organize Your Notion Workspace](https://mariepoulin.com/blog/using-para-to-organize-your-notion-workspace/)
 - [Backing up Your Obsidian Vault on Github (for free!)](https://obsidian.rocks/backing-up-your-obsidian-vault-on-github-for-free/)
 - [Building a second brain for writing - with Obsidian](https://thesiswhisperer.com/2023/02/01/building-a-second-brain-for-writing-with-obsidian/)
-- [How I Made this Second Brain](http://caveonmars.com/pages/how-i-made-this-second-brain/)
+- [How I use the Logseq Readwise plugin in my Zettelkasten](https://wilde-at-heart.garden/pages/how-i-use-the-logseq-readwise-plugin-in-my-zettelkasten/)
 
 ## Curated Lists
 
