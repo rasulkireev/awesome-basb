@@ -94,10 +94,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [LifeOS - Building my second brain with Obsidian](https://forum.obsidian.md/t/lifeos-building-my-second-brain-with-obsidian-para-method-periodic-notes-fullcalendar/62934)
 - [My Complete Obsidian Workflow to Manage My Life](https://mathisgauthey.github.io/my-complete-obsidian-workflow-to-manage-my-life/)
 - [Using PARA to Organize Your Notion Workspace](https://mariepoulin.com/blog/using-para-to-organize-your-notion-workspace/)
+- [Backing up Your Obsidian Vault on Github (for free!)](https://obsidian.rocks/backing-up-your-obsidian-vault-on-github-for-free/)
+- [Building a second brain for writing - with Obsidian](https://thesiswhisperer.com/2023/02/01/building-a-second-brain-for-writing-with-obsidian/)
+- [How I use the Logseq Readwise plugin in my Zettelkasten](https://wilde-at-heart.garden/pages/how-i-use-the-logseq-readwise-plugin-in-my-zettelkasten/)
 
 ## Curated Lists
 
 - [Awesome PARA Method](https://github.com/georgeguimaraes/awesome-PARA-method)
+- [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
+- [Public Zettelkastens / Second Brains / Digital Gardens](https://github.com/KasperZutterman/Second-Brain)
 
 ## Templates and Examples
 
@@ -113,6 +118,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
 - [PARA Template for your Second Brain in Tana](https://www.cortexfutura.com/templates/para/)
 - [second-brain-obsidian-template](https://github.com/geoHeil/second-brain-obsidian-template)
+- [Logseq Second Brain Template](https://github.com/fhjgch/logseq-second-brain-template)
+- [PARA Workspace](https://github.com/pageel/para-workspace)
 
 ## Tools and Apps
 
