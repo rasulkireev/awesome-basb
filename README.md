@@ -88,7 +88,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [A Guide to Building a Second Brain in Mem](https://newsletter.mem.ai/p/a-guide-to-building-a-second-brain)
 - [PARA Method in Anytype](https://doc.anytype.io/anytype-docs/use-cases/para-method-for-note-taking)
 - [Use this Notion second brain template to get organized](https://zapier.com/blog/second-brain-notion-template/)
-- [How to Build a Second Brain in Notion](https://theeudaimon.com/how-to-build-a-second-brain-in-notion/)
+- [How to Build a Second Brain in Notion - The Eudaimon](https://theeudaimon.com/how-to-build-a-second-brain-in-notion/)
 - [Public Second Brain with Quartz](https://www.ssp.sh/brain/public-second-brain-with-quartz/)
 - [The Beginners Guide to Building a Second Brain](https://www.aidanhelfant.com/the-ultimate-guide-to-starting-your-very-own-second-brain/)
 - [How to build your Second Brain using LogSeq](https://devlizioso.substack.com/p/how-to-build-your-second-brain-using)
