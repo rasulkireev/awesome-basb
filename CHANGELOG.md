@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-15
+
+- Added independent BASB/PARA resources across Zettelkasten comparison, Notion workspace setup, curated public second-brain lists, Obsidian templates, and Logseq/Obsidian PARA helpers.
+
 ## 2026-06-14
 
 - Added practical independent guides and templates for Logseq, Obsidian, Tana, and beginner BASB/PKM setup.
