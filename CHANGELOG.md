@@ -2,6 +2,7 @@
 
 ## 2026-06-15
 
+- Added practical non-Forte-centered Second Brain resources for Mem, Anytype, Capacities, AI-assisted systems, and broader PKM method comparison.
 - Added independent BASB/PARA resources across Zettelkasten comparison, Notion workspace setup, a curated PARA list, Obsidian templates, and Logseq/Obsidian PARA helpers.
 
 ## 2026-06-14
