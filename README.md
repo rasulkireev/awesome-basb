@@ -108,7 +108,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Second Brain: Crafted, Curated, Connected, Compounded](https://brain.sspaeti.com/)
 - [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
 - [PARA Template for your Second Brain in Tana](https://www.cortexfutura.com/templates/para/)
-- [second-brain-obsidian-template](https://github.com/geoHeil/second-brain-obsidian-template) - Obsidian starter vault template with note types for projects, meetings, ideas, links, and contacts.
+- [second-brain-obsidian-template](https://github.com/geoHeil/second-brain-obsidian-template)
 
 ## Tools and Apps
 
@@ -116,8 +116,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 - [Obsidian](https://obsidian.md)
 - [Joplin](https://joplinapp.org)
-- [Logseq Plugin: Quickly PARA Method](https://github.com/YU000jp/logseq-plugin-quickly-para-method) - Logseq quick menu for tagging and organizing pages by PARA category.
-- [para-shortcuts](https://github.com/gOATiful/para-shortcuts) - Obsidian commands for creating, archiving, restoring, and postponing PARA entries.
+- [Logseq Plugin: Quickly PARA Method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
+- [para-shortcuts](https://github.com/gOATiful/para-shortcuts)
 
 ### Paid
 
