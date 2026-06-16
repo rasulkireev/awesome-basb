@@ -137,8 +137,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [para-shortcuts](https://github.com/gOATiful/para-shortcuts)
 - [agent-second-brain](https://github.com/smixs/agent-second-brain)
 - [second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)
+- [Readwise Official Obsidian Plugin](https://github.com/readwiseio/obsidian-readwise) (requires a paid Readwise subscription)
 
 ### Paid
 
 - [RoamResearch](https://roamresearch.com)
-- [Readwise Official Obsidian Plugin](https://github.com/readwiseio/obsidian-readwise)
