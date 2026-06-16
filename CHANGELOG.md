@@ -2,6 +2,7 @@
 
 ## 2026-06-16
 
+- Added independent PARA, Apple Notes, NotePlan, Johnny.Decimal, SPARTA, and Obsidian progressive-summarization resources.
 - Added practical Google Keep/Drive/NotebookLM second-brain workflows, Readwise-to-Obsidian capture, and open-source AI-assisted second-brain tools.
 
 ## 2026-06-15

@@ -101,6 +101,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [How I use the Logseq Readwise plugin in my Zettelkasten](https://wilde-at-heart.garden/pages/how-i-use-the-logseq-readwise-plugin-in-my-zettelkasten/)
 - [Building A Second Brain With Google Keep](https://www.cheerfulegg.com/building-a-second-brain-with-google-keep/)
 - [Building a Second Brain with Google Keep, Drive, and NotebookLM](https://wiobyrne.com/building-a-second-brain-with-google-keep-drive-and-notebooklm/)
+- [The PARA Method: The note-taking and organisation system I've used for years](https://world.hey.com/chrismarr/the-para-method-the-note-taking-and-organisation-system-i-ve-used-for-years-a0b3c512)
+- [How I mixed Johnny Decimal and Second Brain to organize my documents](https://lucaf.eu/2023/02/23/luca-decimal.html)
+- [Second Brain-ing My Apple Notes](https://theshubox.com/2024/01/second-brain-ing-my-apple-notes.html)
+- [How to organize your notes and folders using Johnny.Decimal and PARA](https://help.noteplan.co/article/155-how-to-organize-your-notes-and-folders-using-johnny-decimal-and-para)
+- [S.P.A.R.T.A. system for organizing my life and work](https://talk.macpowerusers.com/t/s-p-a-r-t-a-system-for-organizing-my-life-and-work/32092)
 
 ## Curated Lists
 
@@ -138,6 +143,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [agent-second-brain](https://github.com/smixs/agent-second-brain)
 - [second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)
 - [Readwise Official Obsidian Plugin](https://github.com/readwiseio/obsidian-readwise) (requires a paid Readwise subscription)
+- [Obsidian Progressive Summarization](https://github.com/zhixindev/obsidian-progressive-summarization)
 
 ### Paid
 
