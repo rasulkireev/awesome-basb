@@ -2,6 +2,7 @@
 
 ## 2026-06-16
 
+- Added Screenpipe to paid tools with its GitHub repository, paid-plan context, and capture-oriented second-brain role.
 - Added concise descriptions to existing resource links so the list is easier to scan before clicking.
 - Added independent PARA, Apple Notes, NotePlan, Johnny.Decimal, SPARTA, and Obsidian progressive-summarization resources.
 - Added practical Google Keep/Drive/NotebookLM second-brain workflows, Readwise-to-Obsidian capture, and open-source AI-assisted second-brain tools.
