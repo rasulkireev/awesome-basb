@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-16
+
+- Added practical Google Keep/Drive/NotebookLM second-brain workflows, Readwise-to-Obsidian capture, and open-source AI-assisted second-brain tools.
+
 ## 2026-06-15
 
 - Added practical non-Forte resources for Notion and Tana workflows, plus open-source Foam and Claude/Obsidian second-brain tooling.

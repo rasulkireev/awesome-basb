@@ -99,6 +99,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Backing up Your Obsidian Vault on Github (for free!)](https://obsidian.rocks/backing-up-your-obsidian-vault-on-github-for-free/)
 - [Building a second brain for writing - with Obsidian](https://thesiswhisperer.com/2023/02/01/building-a-second-brain-for-writing-with-obsidian/)
 - [How I use the Logseq Readwise plugin in my Zettelkasten](https://wilde-at-heart.garden/pages/how-i-use-the-logseq-readwise-plugin-in-my-zettelkasten/)
+- [Building A Second Brain With Google Keep](https://www.cheerfulegg.com/building-a-second-brain-with-google-keep/)
+- [Building a Second Brain with Google Keep, Drive, and NotebookLM](https://wiobyrne.com/building-a-second-brain-with-google-keep-drive-and-notebooklm/)
 
 ## Curated Lists
 
@@ -133,6 +135,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
 - [Logseq Plugin: Quickly PARA Method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
 - [para-shortcuts](https://github.com/gOATiful/para-shortcuts)
+- [agent-second-brain](https://github.com/smixs/agent-second-brain)
+- [second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)
+- [Readwise Official Obsidian Plugin](https://github.com/readwiseio/obsidian-readwise) (requires a paid Readwise subscription)
 
 ### Paid
 
