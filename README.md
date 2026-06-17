@@ -75,7 +75,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [How to Progressively Summarize a Digital Note](https://www.youtube.com/watch?v=fWFKoVbSwGo) - Short demonstration of progressive summarization on a digital note.
 - [Stop Highlighting Blindly: The Progressive Summarization Secret](https://www.youtube.com/watch?v=73s6Dgg3NZ0) - Video explanation of turning highlights into more useful note layers.
 - [Tiago Forte | Building a Second Brain | Talks at Google](https://www.youtube.com/watch?v=Y86GOtc1KNo) - Talks at Google presentation introducing BASB to a broad professional audience.
-- [Building a Second Brain with Dendron](https://www.youtube.com/watch?v=Pd63xxRktgE) - Joshua Duffney walkthrough for applying PARA inside the Dendron VS Code extension.
+- [How I Capture and Process Using Readwise and Obsidian](https://www.youtube.com/watch?v=CH84CsBViOs) - FromSergio walkthrough for turning reading highlights into processed Obsidian notes.
 - [Readwise + Logseq Tutorial: Importing Book Notes into my Second Brain](https://www.youtube.com/watch?v=YqsZB3hz4Ps) - Demonstrates a Readwise-to-Logseq book-note workflow for moving highlights into a second brain.
 
 ### Russian
@@ -148,7 +148,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Readwise Official Obsidian Plugin](https://github.com/readwiseio/obsidian-readwise) - Official plugin for syncing Readwise highlights into Obsidian; requires a paid Readwise subscription.
 - [Obsidian Progressive Summarization](https://github.com/zhixindev/obsidian-progressive-summarization) - Obsidian plugin that supports progressive summarization workflows.
 - [SilverBullet](https://silverbullet.md) - Open-source, self-hosted Markdown knowledge base with wiki links, queries, tasks, and Lua automation.
-- [Lurnby](https://www.lurnby.com) - Open-source active-reading app for highlighting, categorizing, reviewing, and remembering web articles and EPUBs.
+- [Lurnby](https://github.com/Roznoshchik/Lurnby) - Open-source active-reading app for highlighting, categorizing, reviewing, and remembering web articles and EPUBs.
 
 ### Paid
 

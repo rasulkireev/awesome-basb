@@ -2,7 +2,7 @@
 
 ## 2026-06-17
 
-- Added SilverBullet, Lurnby, Dendron, Logseq/Readwise, and long-form Obsidian PKM workflow resources.
+- Added SilverBullet, Lurnby, Readwise/Obsidian, Readwise/Logseq, and long-form Obsidian PKM workflow resources.
 
 ## 2026-06-16
 
