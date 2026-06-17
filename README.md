@@ -75,6 +75,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [How to Progressively Summarize a Digital Note](https://www.youtube.com/watch?v=fWFKoVbSwGo) - Short demonstration of progressive summarization on a digital note.
 - [Stop Highlighting Blindly: The Progressive Summarization Secret](https://www.youtube.com/watch?v=73s6Dgg3NZ0) - Video explanation of turning highlights into more useful note layers.
 - [Tiago Forte | Building a Second Brain | Talks at Google](https://www.youtube.com/watch?v=Y86GOtc1KNo) - Talks at Google presentation introducing BASB to a broad professional audience.
+- [Building a Second Brain with Dendron](https://www.youtube.com/watch?v=Pd63xxRktgE) - Joshua Duffney walkthrough for applying PARA inside the Dendron VS Code extension.
+- [Readwise + Logseq Tutorial: Importing Book Notes into my Second Brain](https://www.youtube.com/watch?v=YqsZB3hz4Ps) - Demonstrates a Readwise-to-Logseq book-note workflow for moving highlights into a second brain.
 
 ### Russian
 
@@ -106,6 +108,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Second Brain-ing My Apple Notes](https://theshubox.com/2024/01/second-brain-ing-my-apple-notes.html) - Apple Notes workflow for adapting second-brain ideas to a default notes app.
 - [How to organize your notes and folders using Johnny.Decimal and PARA](https://help.noteplan.co/article/155-how-to-organize-your-notes-and-folders-using-johnny-decimal-and-para) - NotePlan guide to combining Johnny.Decimal numbering with PARA folders.
 - [S.P.A.R.T.A. system for organizing my life and work](https://talk.macpowerusers.com/t/s-p-a-r-t-a-system-for-organizing-my-life-and-work/32092) - Community thread describing an alternative life/work organization system adjacent to BASB.
+- [Personal Knowledge Management Workflow for a Deeper Life](https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/) - Detailed Obsidian workflow connecting Second Brain, PARA, Zettelkasten, GTD, and review practices.
 
 ## Curated Lists
 
@@ -144,6 +147,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare) - Cloudflare-based project for hosting and querying second-brain content.
 - [Readwise Official Obsidian Plugin](https://github.com/readwiseio/obsidian-readwise) - Official plugin for syncing Readwise highlights into Obsidian; requires a paid Readwise subscription.
 - [Obsidian Progressive Summarization](https://github.com/zhixindev/obsidian-progressive-summarization) - Obsidian plugin that supports progressive summarization workflows.
+- [SilverBullet](https://silverbullet.md) - Open-source, self-hosted Markdown knowledge base with wiki links, queries, tasks, and Lua automation.
+- [Lurnby](https://www.lurnby.com) - Open-source active-reading app for highlighting, categorizing, reviewing, and remembering web articles and EPUBs.
 
 ### Paid
 

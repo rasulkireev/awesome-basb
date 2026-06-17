@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-17
+
+- Added SilverBullet, Lurnby, Dendron, Logseq/Readwise, and long-form Obsidian PKM workflow resources.
+
 ## 2026-06-16
 
 - Added Screenpipe to paid tools with its GitHub repository, paid-plan context, and capture-oriented second-brain role.
