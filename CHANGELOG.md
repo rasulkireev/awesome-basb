@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-18
+
+- Added practical resources for evergreen notes, Emacs Org-roam second-brain workflows, and an org-roam package for structured/semantic second-brain systems.
+
 ## 2026-06-17
 
 - Added SilverBullet, Lurnby, Readwise/Obsidian, Readwise/Logseq, and long-form Obsidian PKM workflow resources.

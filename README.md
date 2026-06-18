@@ -46,6 +46,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Peeking Into People's Second Brains: 6 Videos to Inspire Your Second Brain Setup](https://fortelabs.com/blog/peeking-into-peoples-second-brains-6-videos-to-inspire-your-second-brain-setup/) - Curated examples of real second-brain setups for inspiration.
 - [Test-Driving a New Generation of Second Brain Apps: Obsidian, Tana, and Mem](https://fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/) - Compares modern note apps through a second-brain workflow lens.
 - [How to Increase Knowledge Productivity: Combine the Zettelkasten Method and Building a Second Brain](https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/) - Compares BASB and Zettelkasten ideas for more productive knowledge work.
+- [Evergreen notes](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX) - Andy Matuschak's working note on writing atomic, concept-oriented, densely linked notes that accumulate across projects.
 
 ## Books
 
@@ -109,6 +110,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [How to organize your notes and folders using Johnny.Decimal and PARA](https://help.noteplan.co/article/155-how-to-organize-your-notes-and-folders-using-johnny-decimal-and-para) - NotePlan guide to combining Johnny.Decimal numbering with PARA folders.
 - [S.P.A.R.T.A. system for organizing my life and work](https://talk.macpowerusers.com/t/s-p-a-r-t-a-system-for-organizing-my-life-and-work/32092) - Community thread describing an alternative life/work organization system adjacent to BASB.
 - [Personal Knowledge Management Workflow for a Deeper Life](https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/) - Detailed Obsidian workflow connecting Second Brain, PARA, Zettelkasten, GTD, and review practices.
+- [Build a Second Brain in Emacs with Org Roam](https://systemcrafters.net/build-a-second-brain-in-emacs/getting-started-with-org-roam/) - System Crafters guide for setting up Org-roam nodes, links, backlinks, and plain-text note storage in Emacs.
+- [How I use org-roam as a second brain](https://blog.laurentcharignon.com/post/org-roam/) - Practitioner workflow showing daily notes, weekly compaction, permanent notes, tagging, and review routines in Org-roam.
 
 ## Curated Lists
 
@@ -147,6 +150,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare) - Cloudflare-based project for hosting and querying second-brain content.
 - [Readwise Official Obsidian Plugin](https://github.com/readwiseio/obsidian-readwise) - Official plugin for syncing Readwise highlights into Obsidian; requires a paid Readwise subscription.
 - [Obsidian Progressive Summarization](https://github.com/zhixindev/obsidian-progressive-summarization) - Obsidian plugin that supports progressive summarization workflows.
+- [org-roam-second-brain](https://github.com/dcruver/org-roam-second-brain) - Emacs/org-roam package that adds structured note types, semantic search, and proactive surfacing for local second-brain workflows.
 - [SilverBullet](https://silverbullet.md) - Open-source, self-hosted Markdown knowledge base with wiki links, queries, tasks, and Lua automation.
 - [Lurnby](https://github.com/Roznoshchik/Lurnby) - Open-source active-reading app for highlighting, categorizing, reviewing, and remembering web articles and EPUBs.
 
