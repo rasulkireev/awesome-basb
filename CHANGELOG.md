@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-19
+
+- Added practical resources for a long-form PKM workflow, a lightweight Obsidian PARA template, Claude/Obsidian second-brain tooling, and PARA-based AI file organization.
+
 ## 2026-06-18
 
 - Added practical resources for evergreen notes, Emacs Org-roam second-brain workflows, and an org-roam package for structured/semantic second-brain systems.
