@@ -110,7 +110,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [How to organize your notes and folders using Johnny.Decimal and PARA](https://help.noteplan.co/article/155-how-to-organize-your-notes-and-folders-using-johnny-decimal-and-para) - NotePlan guide to combining Johnny.Decimal numbering with PARA folders.
 - [S.P.A.R.T.A. system for organizing my life and work](https://talk.macpowerusers.com/t/s-p-a-r-t-a-system-for-organizing-my-life-and-work/32092) - Community thread describing an alternative life/work organization system adjacent to BASB.
 - [Personal Knowledge Management Workflow for a Deeper Life](https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/) - Detailed Obsidian workflow connecting Second Brain, PARA, Zettelkasten, GTD, and review practices.
-- [Ernest PKM Personal Knowledge System Workflow](https://www.ernestchiang.com/en/posts/2023/ernest-pkm-workflow-2023/) - Long-form practitioner workflow covering input sources, inboxes, distillation, execution, expression, and tool choices for a personal knowledge system.
+- [Ernest PKM Personal Knowledge System Workflow](https://www.ernestchiang.com/en/posts/2023/ernest-pkm-workflow/) - Long-form practitioner workflow covering input sources, inboxes, distillation, execution, expression, and tool choices for a personal knowledge system.
 - [Build a Second Brain in Emacs with Org Roam](https://systemcrafters.net/build-a-second-brain-in-emacs/getting-started-with-org-roam/) - System Crafters guide for setting up Org-roam nodes, links, backlinks, and plain-text note storage in Emacs.
 - [How I use org-roam as a second brain](https://blog.laurentcharignon.com/post/org-roam/) - Practitioner workflow showing daily notes, weekly compaction, permanent notes, tagging, and review routines in Org-roam.
 
@@ -137,7 +137,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Logseq Second Brain Template](https://github.com/fhjgch/logseq-second-brain-template) - Logseq template repository for setting up a second-brain workspace.
 - [PARA Workspace](https://github.com/pageel/para-workspace) - Open-source workspace template for applying PARA to files and folders.
 - [Paratag](https://github.com/mortydemption/Paratag) - Minimal Obsidian vault template that combines PARA folders with a lightweight tagging workflow and Quick Add note templates.
-- [Project Cornelius](https://github.com/Abilityai/cornelius) - Advanced Claude Code and Obsidian second-brain template with local semantic search, knowledge-base workflows, and agent-assisted connection discovery.
 
 ## Tools and Apps
 
@@ -155,6 +154,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Obsidian Progressive Summarization](https://github.com/zhixindev/obsidian-progressive-summarization) - Obsidian plugin that supports progressive summarization workflows.
 - [org-roam-second-brain](https://github.com/dcruver/org-roam-second-brain) - Emacs/org-roam package that adds structured note types, semantic search, and proactive surfacing for local second-brain workflows.
 - [File Organizer Skills for Claude Code and Cowork](https://github.com/smithjoshua/claude-code-cowork-skills-file-organizer) - AI-assisted PARA file-organization skills with inbox reviews, proposed renames, audit trails, and reusable folder templates.
+- [Project Cornelius](https://github.com/Abilityai/cornelius) - Claude Code and Obsidian knowledge-management system with local semantic search, agent-assisted workflows, and connection discovery for second-brain vaults.
 - [SilverBullet](https://silverbullet.md) - Open-source, self-hosted Markdown knowledge base with wiki links, queries, tasks, and Lua automation.
 - [Lurnby](https://github.com/Roznoshchik/Lurnby) - Open-source active-reading app for highlighting, categorizing, reviewing, and remembering web articles and EPUBs.
 

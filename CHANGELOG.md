@@ -2,7 +2,7 @@
 
 ## 2026-06-19
 
-- Added practical resources for a long-form PKM workflow, lightweight and AI-assisted Obsidian second-brain templates, and PARA-based AI file organization.
+- Added practical resources for a long-form PKM workflow, a lightweight Obsidian PARA template, Claude/Obsidian second-brain tooling, and PARA-based AI file organization.
 
 ## 2026-06-18
 
