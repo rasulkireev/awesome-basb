@@ -47,6 +47,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Test-Driving a New Generation of Second Brain Apps: Obsidian, Tana, and Mem](https://fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/) - Compares modern note apps through a second-brain workflow lens.
 - [How to Increase Knowledge Productivity: Combine the Zettelkasten Method and Building a Second Brain](https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/) - Compares BASB and Zettelkasten ideas for more productive knowledge work.
 - [Evergreen notes](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX) - Andy Matuschak's working note on writing atomic, concept-oriented, densely linked notes that accumulate across projects.
+- [How People Manage Knowledge in their "Second Brains"- A Case Study with Industry Researchers Using Obsidian](https://arxiv.org/abs/2509.20187) - HCI research paper studying how industry researchers build, retrieve from, and maintain Obsidian-based personal knowledge bases.
 
 ## Books
 
@@ -137,6 +138,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Logseq Second Brain Template](https://github.com/fhjgch/logseq-second-brain-template) - Logseq template repository for setting up a second-brain workspace.
 - [PARA Workspace](https://github.com/pageel/para-workspace) - Open-source workspace template for applying PARA to files and folders.
 - [Paratag](https://github.com/mortydemption/Paratag) - Minimal Obsidian vault template that combines PARA folders with a lightweight tagging workflow and Quick Add note templates.
+- [Minimal Second Brain](https://github.com/gokhanarkan/minimal-second-brain) - Minimal Obsidian vault template with Inbox, Projects, Knowledge folders, AI-readable manifests, and optional maintenance automation.
 
 ## Tools and Apps
 
@@ -152,11 +154,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare) - Cloudflare-based project for hosting and querying second-brain content.
 - [Readwise Official Obsidian Plugin](https://github.com/readwiseio/obsidian-readwise) - Official plugin for syncing Readwise highlights into Obsidian; requires a paid Readwise subscription.
 - [Obsidian Progressive Summarization](https://github.com/zhixindev/obsidian-progressive-summarization) - Obsidian plugin that supports progressive summarization workflows.
+- [Simple Note Review](https://github.com/dartungar/obsidian-simple-note-review) - Obsidian plugin for resurfacing and reviewing notes at your own pace using flexible note sets.
 - [org-roam-second-brain](https://github.com/dcruver/org-roam-second-brain) - Emacs/org-roam package that adds structured note types, semantic search, and proactive surfacing for local second-brain workflows.
 - [File Organizer Skills for Claude Code and Cowork](https://github.com/smithjoshua/claude-code-cowork-skills-file-organizer) - AI-assisted PARA file-organization skills with inbox reviews, proposed renames, audit trails, and reusable folder templates.
 - [Project Cornelius](https://github.com/Abilityai/cornelius) - Claude Code and Obsidian knowledge-management system with local semantic search, agent-assisted workflows, and connection discovery for second-brain vaults.
 - [SilverBullet](https://silverbullet.md) - Open-source, self-hosted Markdown knowledge base with wiki links, queries, tasks, and Lua automation.
 - [Lurnby](https://github.com/Roznoshchik/Lurnby) - Open-source active-reading app for highlighting, categorizing, reviewing, and remembering web articles and EPUBs.
+- [matryca-plumber](https://github.com/MarcoPorcellato/matryca-plumber) - Local-first Logseq daemon for semantic indexing, link hygiene, tag suggestions, and safe AI-assisted note maintenance.
 
 ### Paid
 

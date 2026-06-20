@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-20
+
+- Added a research paper on Obsidian second-brain usage, a minimalist AI-native Obsidian vault template, and local-first tools for note review and Logseq maintenance.
+
 ## 2026-06-19
 
 - Added practical resources for a long-form PKM workflow, a lightweight Obsidian PARA template, Claude/Obsidian second-brain tooling, and PARA-based AI file organization.
