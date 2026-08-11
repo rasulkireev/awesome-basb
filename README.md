@@ -164,5 +164,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ### Paid
 
+- [Carry](https://carry.md) - Browser extension that saves your ChatGPT, Claude, and Grok conversations as Markdown files in a local Obsidian vault.
 - [RoamResearch](https://roamresearch.com) - Paid outliner and networked note-taking tool often used for connected PKM systems.
 - [Screenpipe](https://screenpi.pe) ([GitHub](https://github.com/screenpipe/screenpipe)) - Open-source, capture-oriented screen and audio recorder with paid plans for feeding raw observations into a second-brain workflow.
