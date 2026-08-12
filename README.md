@@ -147,6 +147,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Obsidian](https://obsidian.md) - Local-first Markdown notes app commonly used for second-brain and PKM workflows.
 - [Joplin](https://joplinapp.org) - Open-source note app with sync, clipping, and Markdown support.
 - [Foam](https://github.com/foambubble/foam) - VS Code-based personal knowledge management system built on Markdown and links.
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace with notes, tasks, and AI chat. Plain markdown files, no accounts, no cloud.
 - [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Tooling for connecting Claude-assisted workflows with an Obsidian vault.
 - [Logseq Plugin: Quickly PARA Method](https://github.com/YU000jp/logseq-plugin-quickly-para-method) - Logseq plugin for quickly creating PARA-style pages and structure.
 - [para-shortcuts](https://github.com/gOATiful/para-shortcuts) - Shortcut collection for creating and navigating PARA folders.
