@@ -130,7 +130,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Template for using Obsidian for P.A.R.A.](https://github.com/byarbrough/obsidian-para) - GitHub template for setting up PARA inside an Obsidian vault.
 - [Building a second brain - Workflowy template](https://workflowy.com/template/building-a-second-brain/) - Workflowy template for organizing BASB notes and projects.
 - [Obsidian AI Second Brain](https://github.com/jamesmcroft/obsidian-ai-second-brain) - Open-source Obsidian example that combines second-brain structure with AI workflows.
-- [PARA Starter Kit](https://forum.obsidian.md/t/para-starter-kit/223) - Obsidian forum starter kit for implementing PARA in a vault.
+- [PARA Starter Kit](https://forum.obsidian.md/t/para-starter-kit/223) - Obsidian forum starter kit for implementing PARA in a vault
+- [Second Brain Starter](https://github.com/secondbrainstarter/second-brain-starter) - Free bilingual (EN/DE) Obsidian starter vault: three folders, six templates, daily-note and 17-minute routine. No plugins or account needed.
 - [Second Brain: Crafted, Curated, Connected, Compounded](https://brain.sspaeti.com/) - Public second brain example with visible structure and linked notes.
 - [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - GitHub template for an Obsidian-based second-brain vault.
 - [PARA Template for your Second Brain in Tana](https://www.cortexfutura.com/templates/para/) - Tana template for organizing a second brain around PARA.
