@@ -165,4 +165,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 ### Paid
 
 - [RoamResearch](https://roamresearch.com) - Paid outliner and networked note-taking tool often used for connected PKM systems.
-- [Screenpipe](https://screenpi.pe) ([GitHub](https://github.com/screenpipe/screenpipe)) - Open-source, capture-oriented screen and audio recorder with paid plans for feeding raw observations into a second-brain workflow.
+- [Screenpipe](https://screenpipe.com) ([GitHub](https://github.com/screenpipe/screenpipe)) - Source-available, capture-oriented screen and audio recorder with free and paid plans for feeding raw observations into a second-brain workflow.
