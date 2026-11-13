@@ -160,6 +160,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Project Cornelius](https://github.com/Abilityai/cornelius) - Claude Code and Obsidian knowledge-management system with local semantic search, agent-assisted workflows, and connection discovery for second-brain vaults.
 - [SilverBullet](https://silverbullet.md) - Open-source, self-hosted Markdown knowledge base with wiki links, queries, tasks, and Lua automation.
 - [Lurnby](https://github.com/Roznoshchik/Lurnby) - Open-source active-reading app for highlighting, categorizing, reviewing, and remembering web articles and EPUBs.
+- [Glasp](https://glasp.co/) - Web and PDF highlighter with YouTube transcripts and Kindle highlight import; exports to Markdown, Notion, Obsidian, and Roam. Free plan, with paid plans.
 - [matryca-plumber](https://github.com/MarcoPorcellato/matryca-plumber) - Local-first Logseq daemon for semantic indexing, link hygiene, tag suggestions, and safe AI-assisted note maintenance.
 
 ### Paid
