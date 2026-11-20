@@ -34,6 +34,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 - [Introducing The AI Second Brain](https://fortelabs.com/blog/introducing-the-ai-second-brain/) - Explores how AI can extend second-brain workflows for retrieval, synthesis, and creation.
 - [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb) - Visual notes that summarize core BASB ideas in an accessible, skimmable format.
 - [What Is a Second Brain? A Pragmatic Guide to Modern Personal Knowledge Management](https://www.apragmaticmind.com/blog/what-is-a-second-brain) - Grounded introduction to second-brain systems from a practical PKM perspective.
+- [Personal context should travel with the person](https://zortex.me/en/journal/news-personal-context-ownership) - Questions for evaluating whether a personal knowledge base can outlast an AI assistant, including where copies are stored and how to revoke access.
 - [Building Your AI Second Brain: A Practical Guide for the Overwhelmed Knowledge Worker](https://www.ronforbes.com/blog/building-your-ai-second-brain) - Walkthrough for using AI to capture, organize, and reuse knowledge work.
 - [A Second Brain with Capacities](https://capacities.io/blog/a-second-brain/) - Capacities-specific explanation of building an object-based second brain.
 - [My custom second brain setup, part 1: Why go custom?](https://luhr.co/blog/2023/04/19/my-custom-second-brain-setup-part-1-why-go-custom/) - Rationale for building a custom second-brain system instead of relying on one app.
