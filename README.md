@@ -166,3 +166,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 - [RoamResearch](https://roamresearch.com) - Paid outliner and networked note-taking tool often used for connected PKM systems.
 - [Screenpipe](https://screenpi.pe) ([GitHub](https://github.com/screenpipe/screenpipe)) - Open-source, capture-oriented screen and audio recorder with paid plans for feeding raw observations into a second-brain workflow.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Capture tool that turns YouTube videos into timestamped transcripts and AI summaries you can export as Markdown into notes; free tier with paid plans.
